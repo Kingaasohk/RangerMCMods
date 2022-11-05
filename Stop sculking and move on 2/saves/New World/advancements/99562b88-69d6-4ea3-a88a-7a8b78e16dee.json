@@ -1,0 +1,153 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "coniferous_forest": "2022-10-31 20:19:37 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-10-31 20:18:25 -0400"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-10-31 20:18:25 -0400"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-10-31 20:18:25 -0400"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2022-10-31 20:18:25 -0400"
+    },
+    "done": true
+  },
+  "nethers_exoticism:nethers_exoticism_adv": {
+    "criteria": {
+      "nethers_exoticism_adv": "2022-10-31 20:18:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-10-31 20:24:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2022-10-31 20:28:17 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2022-10-31 20:18:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2022-10-31 20:31:51 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2022-10-31 20:28:17 -0400"
+    },
+    "done": false
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2022-10-31 20:18:25 -0400"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2022-10-31 20:18:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-10-31 20:31:51 -0400"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:rose_fields": "2022-10-31 20:23:16 -0400",
+      "byg:weeping_witch_forest": "2022-10-31 20:22:35 -0400"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "coniferous_forest": "2022-10-31 20:19:37 -0400"
+    },
+    "done": false
+  },
+  "immersive_weathering:immersive_weathering/icicle": {
+    "criteria": {
+      "apple": "2022-10-31 20:24:02 -0400"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2022-10-31 20:18:25 -0400"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2022-10-31 20:26:10 -0400"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2022-10-31 20:27:13 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-10-31 20:26:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2022-10-31 20:22:00 -0400",
+      "minecraft:beach": "2022-10-31 20:19:41 -0400",
+      "minecraft:river": "2022-10-31 20:29:10 -0400",
+      "minecraft:forest": "2022-10-31 20:34:43 -0400",
+      "minecraft:frozen_peaks": "2022-10-31 20:23:31 -0400",
+      "minecraft:plains": "2022-10-31 20:34:46 -0400"
+    },
+    "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-10-31 20:24:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-10-31 20:31:28 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

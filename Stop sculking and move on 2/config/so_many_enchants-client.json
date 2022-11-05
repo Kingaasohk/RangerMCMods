@@ -1,0 +1,237 @@
+{
+  "Heavy": {
+    "isEnabled": true,
+    "maxLevel": 5
+  },
+  "Sweeping Edge": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Cat Vision": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Flight": {
+    "isEnabled": false,
+    "maxLevel": 3
+  },
+  "Fire Resistance": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Light Blade": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Loot Bonus Enchantments": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Critical": {
+    "isEnabled": false,
+    "maxLevel": 5
+  },
+  "Freezing": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Punch": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Step Assist": {
+    "isEnabled": false,
+    "maxLevel": 3
+  },
+  "Double Break": {
+    "isEnabled": false,
+    "maxLevel": 5
+  },
+  "Fast Smelt": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Efficiency": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Attack Reach": {
+    "isEnabled": false,
+    "maxLevel": 1
+  },
+  "Camouflage": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Water Breathing": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Weakness": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Mining Fatigue": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Reinforcement": {
+    "isEnabled": true,
+    "maxLevel": 5
+  },
+  "Extra Experience": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Replanting": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Damage Enchantments": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Nausea": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Cavernous Storage": {
+    "isEnabled": false,
+    "maxLevel": 1
+  },
+  "Resistance": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Fire Aspect": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Protection Enchantments": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Invisibility": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Slowness": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Knockback": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Lure": {
+    "isEnabled": true,
+    "maxLevel": 5
+  },
+  "Thorns": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Temper": {
+    "isEnabled": true,
+    "maxLevel": 5
+  },
+  "Health Boost": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Loyalty": {
+    "isEnabled": true,
+    "maxLevel": 5
+  },
+  "Soul Speed": {
+    "isEnabled": true,
+    "maxLevel": 5
+  },
+  "Jump Boost": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Piercing": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Fuel Efficient": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Impaling": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Haste": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Hunger": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Unbreaking": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Block Reach": {
+    "isEnabled": false,
+    "maxLevel": 3
+  },
+  "Fast Hopper": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Speed": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Riptide": {
+    "isEnabled": true,
+    "maxLevel": 5
+  },
+  "Saturation": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Slow Falling": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Regeneration": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Quick Charge": {
+    "isEnabled": true,
+    "maxLevel": 5
+  },
+  "Blindness": {
+    "isEnabled": true,
+    "maxLevel": 1
+  },
+  "Heavy Blade": {
+    "isEnabled": true,
+    "maxLevel": 5
+  },
+  "Poison": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Respiration": {
+    "isEnabled": true,
+    "maxLevel": 5
+  },
+  "Power": {
+    "isEnabled": true,
+    "maxLevel": 10
+  },
+  "Strength": {
+    "isEnabled": true,
+    "maxLevel": 3
+  },
+  "Villager": {
+    "isEnabled": true
+  }
+}

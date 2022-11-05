@@ -1,0 +1,8 @@
+
+[general]
+	return_empty_bottles = true
+	milkification = false
+	magic_protection = false
+	#Range: > 1
+	gauntlet_cooldown = 600
+

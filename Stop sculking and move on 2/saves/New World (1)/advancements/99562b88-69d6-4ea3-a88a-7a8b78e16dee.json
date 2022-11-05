@@ -1,0 +1,170 @@
+{
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2022-10-31 22:15:13 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-10-31 21:52:10 -0400"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-10-31 21:52:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2022-10-31 22:05:14 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2022-10-31 21:52:10 -0400"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2022-10-31 21:52:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-10-31 21:57:18 -0400"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_soul_elytra": {
+    "criteria": {
+      "obtain_soul_elytra": "2022-10-31 22:09:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2022-10-31 22:03:46 -0400"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2022-10-31 22:09:23 -0400"
+    },
+    "done": true
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-10-31 21:54:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2022-10-31 21:53:05 -0400",
+      "minecraft:stony_shore": "2022-10-31 21:53:30 -0400",
+      "minecraft:cold_ocean": "2022-10-31 21:52:11 -0400",
+      "minecraft:forest": "2022-10-31 21:58:21 -0400",
+      "minecraft:deep_dark": "2022-10-31 21:53:35 -0400",
+      "minecraft:plains": "2022-10-31 21:53:34 -0400"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-10-31 21:52:10 -0400"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2022-10-31 21:52:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-10-31 21:52:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-10-31 21:54:10 -0400"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2022-10-31 22:15:29 -0400"
+    },
+    "done": true
+  },
+  "deeperdarker:main/locate_ancient_city": {
+    "criteria": {
+      "ancient_city": "2022-10-31 21:52:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-10-31 21:52:52 -0400"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2022-10-31 21:52:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-10-31 21:52:44 -0400"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2022-10-31 22:02:04 -0400"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2022-10-31 21:57:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-10-31 21:58:14 -0400"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_warden_carapace": {
+    "criteria": {
+      "carapace": "2022-10-31 21:52:57 -0400"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2022-10-31 21:52:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2022-10-31 22:06:33 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
